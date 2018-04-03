@@ -1,6 +1,6 @@
 # Yaku
 
-![Yaku](assets/img/yaku.png)
+![Yaku](assets/img/Yaku.png)
 
 * **Track:** _Especialización UX Design_
 * **Curso:** _Conociendo los negocios_
@@ -780,11 +780,5 @@ Ubicación archivo  ( link ):
 ## Arquitectura de la información 
 
 ![](assets/img/conceptualizacion.png)
-
-
-
-
-
-
 
 

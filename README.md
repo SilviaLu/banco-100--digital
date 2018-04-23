@@ -7,6 +7,7 @@ Yaku es una App de un Banco 100% digital, con esta App podrás realizar desde tr
 
 
 
+## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
 
 * **Track:** _Especialización UX Design_
 * **Curso:** _Conociendo los negocios_

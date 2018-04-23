@@ -1,7 +1,7 @@
 # Yaku
 
 Yaku es una App de un Banco 100% digital, con esta App podrás realizar desde transferencias hasta pagos de servicios básicos desde la comodidad de tu celular. 
-![Yaku](assets/img/Yaku.png)
+![group 5](https://user-images.githubusercontent.com/32303082/39157137-183b7da2-471f-11e8-8124-e1a2010ca462.png)
 
 
 * **Track:** _Especialización UX Design_
